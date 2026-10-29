@@ -59,4 +59,4 @@ Or redirect inputs from a test vector:
 
 ## Author
 
-* Miruna Enache (311CC)
+* Developed as part of the Data Structures and Algorithms course.
